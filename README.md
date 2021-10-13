@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **aysinghal2001/aysinghal2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey, I'm Ayush Singhal 
+Hey, I'm Ayush Singhal  ![gif](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
+
 Changing the world one pixel at a time!
- ![gif](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
