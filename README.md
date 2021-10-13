@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey, I'm Ayush Singhal 
+Changing the world one pixel at a time!
+ ![gif](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
