@@ -3,4 +3,4 @@
 
 ![](https://komarev.com/ghpvc/?username=aysinghal2001&style=flat-square&label=GitHub+Profile+Views)
 
-<img src="https://github-hero-readme.vercel.app/api?username=aysinghal2001&linkedin=ayush-singhaldescription=App Developer | Web Developer | UI/UX Designer" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=aysinghal2001&linkedin=ayush-singhal&twitter=ayushsinghal&description=App Developer | Web Developer | UI/UX Designer" width="100%">
