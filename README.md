@@ -1,9 +1,14 @@
 <h1 align="center">Hey, I'm Ayush Singhal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Changing the world one pixel at a time!</h2>
 
+<a href="https://www.linkedin.com/in/ayush-singhal-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+<a href="https://twitter.com/theayushsinghal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+
+
 ![](https://komarev.com/ghpvc/?username=aysinghal2001&style=flat-square&label=GitHub+Profile+Views)
 
-<img src="https://github-hero-readme.vercel.app/api?username=aysinghal2001&linkedin=ayush-singhal&twitter=ayushsinghal&description=App Developer | Web Developer | UI/UX Designer" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=aysinghal2001&linkedin=ayush-singhal&twitter=theayushsinghal&description=App Developer | Web Developer | UI/UX Designer" width="100%">
 
 ![](https://activity-graph.herokuapp.com/graph?username=aysinghal2001&theme=react-dark&hide_border=false&area=true)
 <br> 
