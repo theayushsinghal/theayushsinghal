@@ -50,4 +50,5 @@
 <!-- <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysinghal2001&theme=algolia" />
 </a> -->
-### Github Stats [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=aysinghal2001&theme=xcode)](https://git.io/ayushsinghal)
+<!-- ### Github Stats [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=aysinghal2001&theme=xcode)](https://git.io/ayushsinghal)
+ -->
