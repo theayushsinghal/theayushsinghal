@@ -48,5 +48,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDhingra257&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysinghal2001&theme=algolia" />
 </a>
