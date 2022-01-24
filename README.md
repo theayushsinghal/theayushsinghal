@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
- - 🌱 Passionate about community building and enjoy building products which could provide value to others
+ - 🌱 Passionate about community building and enjoy building products that impact people around me 🙌
 - 🎓Always eager to learn new skills and contribute, currently learning Machine Learning and Data Structures & Algorithms .
 
 ![](https://komarev.com/ghpvc/?username=aysinghal2001&style=flat-square&label=GitHub+Profile+Views)
