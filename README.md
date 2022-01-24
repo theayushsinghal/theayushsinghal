@@ -8,6 +8,13 @@
   
 </p>
 
+<h2> About Me </h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+ - 🌱 Passionate about community building and enjoy building products which could provide value to others
+- 🎓Always eager to learn new skills and contribute, currently learning Machine Learning and Data Structures & Algorithms .
 
 ![](https://komarev.com/ghpvc/?username=aysinghal2001&style=flat-square&label=GitHub+Profile+Views)
 
@@ -37,3 +44,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDhingra257&theme=algolia" />
+</a>
