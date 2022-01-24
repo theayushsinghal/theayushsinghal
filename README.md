@@ -47,6 +47,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
-<a href="#">
+<!-- <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysinghal2001&theme=algolia" />
-</a>
+</a> -->
+### Github Stats [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=aysinghal2001&theme=xcode)](https://git.io/ayushsinghal)
