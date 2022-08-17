@@ -20,7 +20,6 @@
 
 <img src="https://github-hero-readme.vercel.app/api?username=aysinghal2001&linkedin=ayush-singhal&twitter=theayushsinghal&description=App Developer | Web Developer | UI/UX Designer" width="100%">
 
-![](https://activity-graph.herokuapp.com/graph?username=aysinghal2001&theme=react-dark&hide_border=false&area=true)
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
