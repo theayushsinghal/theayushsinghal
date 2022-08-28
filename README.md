@@ -20,6 +20,14 @@
 
 <img src="https://github-hero-readme.vercel.app/api?username=aysinghal2001&linkedin=ayush-singhal&twitter=theayushsinghal&description=App Developer | Web Developer | UI/UX Designer" width="100%">
 
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysinghal2001&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysinghal2001&hide_border=true&theme=radical" />
+</p>
+
+<!--![Ayush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aysinghal2001&hide_border=true&theme=redical) -->
+
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
