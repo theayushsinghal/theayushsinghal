@@ -14,7 +14,7 @@
 
 
  - 🌱 Passionate about community building and enjoy building products that impact people around me 🙌
-- 🎓Always eager to learn new skills and contribute, currently learning Machine Learning and Data Structures & Algorithms .
+- 🎓Always eager to learn new skills and contribute, currently building CodeMate- Grammarly for Programmers .
 
 ![](https://komarev.com/ghpvc/?username=aysinghal2001&style=flat-square&label=GitHub+Profile+Views)
 
