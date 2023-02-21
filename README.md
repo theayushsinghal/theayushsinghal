@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ayush Singhal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h4 align="center">A final year undergraduate pursuing B.Tech(CSE) from Jaypee Institute of Information Technology, an aspiring <b>Software Developer and a curious learner<b>, building products which impact masses, thereby changing the world one pixel at a time!</h4>
+
 
 <p align="center">
 
